@@ -1,0 +1,2 @@
+webpackJsonp([2],{CEck:function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;return(e._self._c||t)("h2",[e._v("about page")])},u=[],l={render:r,staticRenderFns:u};t.a=l},yPeL:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("CEck"),u=n("K60R"),l=u(null,r.a,!1,null,null,null);t.default=l.exports}});
+//# sourceMappingURL=index.8a4ea00daf4b96f018ba.js.map
